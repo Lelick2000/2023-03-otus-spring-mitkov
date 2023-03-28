@@ -1,1 +1,1 @@
-# 2023-03-otus-spring-mitkov
+Spring course 03-2023, student Mitkov Alexey
